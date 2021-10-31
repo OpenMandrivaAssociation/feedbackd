@@ -16,7 +16,7 @@ BuildRequires:  pkgconfig(gsound)
 BuildRequires:  pkgconfig(gudev-1.0) >= 232
 BuildRequires:  pkgconfig(json-glib-1.0)
 BuildRequires:  gobject-introspection-devel
-BuildRequires:  systemd-devel
+BuildRequires:  pkgconfig(systemd)
 BuildRequires:  vala
 BuildRequires:  dbus-daemon
 Requires: lib%{name}%{?_isa} = %{version}-%{release}
