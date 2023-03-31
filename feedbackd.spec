@@ -3,7 +3,7 @@
 
 Name:           feedbackd
 Version:        0.0.0+git20211018
-Release:        2
+Release:        3
 Summary:        Feedback library for GNOME
 
 License:        GPLv3+
